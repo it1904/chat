@@ -1,0 +1,9 @@
+.flexin{
+    display: flex;
+}
+
+.stylovyChat{
+    background-color: rgb(238, 236, 236);
+    border: 2px darkgray solid;
+    font-size: 1.2em;
+}
